@@ -1,5 +1,5 @@
 
-# Aerial Video Ingestion & Object Detection Pipeline
+# Aerial Video Processing & Object Detection Pipeline
 
 An applied computer vision pipeline developed to detect, evaluate, and monitor herds of wild cattle from aerial drone video feeds and imagery. Originally conceptualized during academic research at Sapienza University of Rome, this project features a modernized detection workflow utilizing YOLOv8 and custom stream post-processing.
 
